@@ -1,2 +1,2 @@
-# exercicios-l-gica
+# exercicios-logica
 Exercícios de Lógica
